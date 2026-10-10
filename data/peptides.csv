@@ -1,0 +1,24 @@
+name,common_aliases,sequence,n_acetyl,c_amide,pyroglu,disulfides,source_type,reference,notes
+BPC-157,Body Protection Compound 157,GEPPPGKPADDAGLV,0,0,0,0,synthetic,PubChem CID 9941957 (H-GEPPPGKPADDAGLV-OH; C62H98N16O22),Free acid form as usually described
+Thymosin beta-4,TB-500 (full length); Tβ4,SDKPDMAEIEKFDKSKLKKTETQEKNPLPSKETIEQEKQAGES,1,0,0,0,natural,UniProt P62328 (residues 2-44; N-terminal Ser acetylated),"""TB-500"" is also used for short fragments - see next row"
+Thymosin beta-4 fragment 17-23,Ac-LKKTETQ; sometimes sold as TB-500,LKKTETQ,1,0,0,0,fragment,UniProt P62328 (residues 18-24 of precursor),Contains the LKKTET actin-binding motif; exact fragment and acetylation vary by supplier
+GHK,Gly-His-Lys (copper-free),GHK,0,0,0,0,natural,Pickart (literature),GHK-Cu is a copper complex; its mass is not the free-peptide mass shown here
+Epitalon,Epithalon; AEDG,AEDG,0,0,0,0,synthetic,Khavinson (literature),
+Pinealon,EDR,EDR,0,0,0,0,synthetic,Khavinson (literature),
+KPV,Lys-Pro-Val,KPV,0,0,0,0,fragment,alpha-MSH C-terminal tripeptide (literature),
+Semax,ACTH(4-7)-PGP,MEHFPGP,0,0,0,0,synthetic,literature sequence,
+Selank,tuftsin-PGP analog,TKPRPGP,0,0,0,0,synthetic,literature sequence,
+DSIP,Delta sleep-inducing peptide,WAGGDASGE,0,0,0,0,natural,literature sequence,
+Larazotide,AT-1001,GGVLVQPG,0,0,0,0,synthetic,literature sequence,
+Kisspeptin-10,KP-10; metastin(45-54),YNWNSFGLRF,0,1,0,0,natural,UniProt Q15726 (C-terminal decapeptide; amidated),
+Oxytocin,,CYIQNCPLG,0,1,0,1,natural,UniProt P01178 (mature hormone; Cys1-Cys6 disulfide; amidated),
+Gonadorelin,GnRH; LHRH,QHWSYGLRPG,0,1,1,0,natural,literature sequence (pGlu-1; amidated),
+MOTS-c,,MRWQEMGYIFYPRKLR,0,0,0,0,natural,UniProt A0A0C5B5G6,Mitochondrially encoded (12S rRNA region)
+Humanin,HN,MAPRGFSCLLLLTSEIDLPVKRRA,0,0,0,0,natural,UniProt Q8IVG9,
+LL-37,cathelicidin LL-37,LLGDFFRKSKEKIGKEFKRIVQRIKDFLRNLVPRTES,0,0,0,0,natural,UniProt P49913 (residues 134-170),
+Sermorelin,GRF(1-29)NH2,YADAIFTNSYRKVLGQLSARKLLQDIMSR,0,1,0,0,fragment,UniProt P01286 (GHRH 1-29; amidated),
+Thymosin alpha-1,Tα1; thymalfasin,SDAAVDTSSEITTKDLKEKKEVVEEAEN,1,0,0,0,natural,literature sequence (N-acetylated),
+Vasoactive intestinal peptide,VIP,HSDAVFTDNYTRLRKQMAVKKYLNSILN,0,1,0,0,natural,UniProt P01282 (mature VIP; amidated),
+Exenatide,exendin-4,HGEGTFTSDLSKQMEEEAVRLFIEWLKNGGPSSGAPPPS,0,1,0,0,natural,UniProt P26349 (mature exendin-4; amidated),
+Pramlintide,amylin analog (25/28/29-Pro),KCNTATCATQRLANFLVHSSNNFGPILPPTNVGSNTY,0,1,0,1,synthetic,human amylin UniProt P10997 with A25P/S28P/S29P; Cys2-Cys7 disulfide; amidated,
+ARA-290,cibinetide,EEQLERALNSS,0,0,1,0,synthetic,literature sequence (pGlu-1),
