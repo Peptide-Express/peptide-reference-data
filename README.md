@@ -41,7 +41,7 @@ The name is used for two different molecules: full-length thymosin β-4 (43 resi
 
 ## Background reading
 
-A public set of real certificates to practise on is published by [Peptide.Express](https://peptide.express/lab-results), who maintain this repo.
+A public set of real certificates to practise on is published by Peptide.Express (https://peptide.express), who maintain this repo.
 
 ## License
 
