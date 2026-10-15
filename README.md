@@ -28,6 +28,13 @@ python scripts/peptide_mass.py --csv data/peptides.csv              # rebuild ma
 
 Options: `--n-acetyl`, `--c-amide`, `--pyroglu` (N-terminal Q or E), `--disulfides N`.
 
+## Examples
+
+- [`examples/peptide_mass_walkthrough.ipynb`](examples/peptide_mass_walkthrough.ipynb): computing masses and m/z with `peptide-mass` and checking them against `data/masses.csv`.
+  - [View on nbviewer](https://nbviewer.org/github/Peptide-Express/peptide-reference-data/blob/main/examples/peptide_mass_walkthrough.ipynb)
+  - [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Peptide-Express/peptide-reference-data/main?labpath=examples%2Fpeptide_mass_walkthrough.ipynb)
+  - [Open in Colab](https://colab.research.google.com/github/Peptide-Express/peptide-reference-data/blob/main/examples/peptide_mass_walkthrough.ipynb)
+
 ## Why "TB-500" has two rows
 
 The name is used for two different molecules: full-length thymosin β-4 (43 residues, N-acetylated, average mass ≈ 4,963 Da) and short fragments around the LKKTET motif, such as Ac-LKKTETQ (≈ 889 Da). Both can pass HPLC at 99 %. The mass is the only field on a CoA that tells them apart.
